@@ -7,7 +7,7 @@ This project uses SQL to analyze warehouse order fulfillment by combining wareho
 - Percentage contribution to total orders
 - Warehouse performance classification
 
-### SQL Skills
+### SQL Techniques Demonstrated
 - JOINs
 - Aggregate Functions
 - GROUP BY
