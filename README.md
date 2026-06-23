@@ -1,17 +1,19 @@
-# SQL Warehouse Performance Analysis
+# SQL Project | Warehouse Performance Analysis
 
-This project uses SQL to analyze warehouse order fulfillment by combining warehouse and order data through joins, aggregation, subqueries, and conditional logic.
+This project analyzes warehouse order fulfillment and operational performance using SQL. It focuses on joins, aggregations, subqueries, and business performance summaries.
 
-### Key Insights
-- Orders fulfilled by each warehouse
-- Percentage contribution to total orders
-- Warehouse performance classification
+## Tools Used
+- SQL
+- Joins
+- Aggregations
+- Subqueries
+- Conditional Logic
 
-### SQL Techniques Demonstrated
-- JOINs
-- Aggregate Functions
-- GROUP BY
-- HAVING
-- CASE Statements
-- Scalar Subqueries
-- String Functions
+## Key Highlights
+- Analyzed warehouse order fulfillment performance.
+- Used joins and aggregations to combine and summarize data.
+- Applied conditional logic to generate business insights.
+- Created performance summaries to support operational decision-making.
+
+## Project Preview
+<img width="2720" height="1248" alt="sql" src="https://github.com/user-attachments/assets/64844f31-bd6b-4415-8c0f-911c85673f46" />
